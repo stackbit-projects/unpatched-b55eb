@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welkom bij de unpatched podcast
+    title: Welkom bij de unpatched Podcast
     subtitle: Optional hero section subtitle
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
